@@ -9,3 +9,6 @@ This template should help get you started developing with Vue 2:
 The template uses Vue 2 `<script setup>` SFCs, check out the [script setup docs](https://github.com/antfu/unplugin-vue2-script-setup) to learn more.
 
 You can register global components in `components.d.ts` to support [Volar](https://github.com/johnsoncodehk/volar)
+
+
+Used in starter kit https://github.com/ufhy/lavite
